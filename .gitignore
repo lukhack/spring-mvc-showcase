@@ -7,3 +7,9 @@ target
 src/main/webapp/META-INF
 .idea
 *.iml
+*.class
+
+#package Flies #
+*.jar
+*.war
+*.ear
